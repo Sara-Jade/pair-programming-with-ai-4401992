@@ -14,7 +14,7 @@ The exercise files for this course are provided as a playground for you to exper
 To run the build process for the react project:
 
 1. Open a Terminal.
-2. In Terminal, Navigate to the `/react` folder.
+2. In Terminal, Navigate to the `/example-vite` folder.
 3. Type in `npm install` and press Enter.
 4. Type in `npm run dev` and press Enter.
    This starts the Vite build process and dev server.
