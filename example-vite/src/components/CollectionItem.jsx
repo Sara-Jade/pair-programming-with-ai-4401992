@@ -13,7 +13,8 @@ export const CollectionItem = ({ data }) => {
           imgData={{
             root: data.avatar.root,
             width: data.avatar.width,
-            height: data.avatar.height
+            height: data.avatar.height,
+            srcSet: data.avatar.srcSet,
           }}
           folder="characters"
           type="png"

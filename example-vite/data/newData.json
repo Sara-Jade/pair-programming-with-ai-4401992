@@ -1,0 +1,80 @@
+{
+  "charList": [
+    {
+      "name": "Delores",
+      "title": "Forensic Accountant",
+      "fileName": "Binaryville-Delores.svg",
+      "dataFullImg": "images/characters/Binaryville-Delores.svg",
+      "avatar": {
+        "root": "avatar-Binaryville-Delores",
+        "src": "images/characters/avatar-Binaryville-Delores.png",
+        "srcSet": "images/characters/avatar-Binaryville-Delores.png 1x, images/characters/avatar-Binaryville-Delores.svg 2x",
+        "width": 200,
+        "height": 200,
+        "alt": "Avatar of Delores"
+      },
+      "desc": "Dolores robot is a computational genius who performs calculations for various Binaryville businesses and organizations. In her spare time, Dolores has been noodling on the creation of the perfect web browser that will make all other browsers obsolete. We&quot;re rooting for you, Dolores!",
+      "button": {
+        "text": "See bio and products",
+        "href": "Character-Detail-Delores.html"
+      }
+    },
+    {
+      "name": "Eugene",
+      "title": "Software Developer",
+      "fileName": "Binaryville-Eugene.svg",
+      "dataFullImg": "images/characters/Binaryville-Eugene.svg",
+      "avatar": {
+        "root": "avatar-Binaryville-Eugene",
+        "src": "images/characters/avatar-Binaryville-Eugene.png",
+        "srcSet": "images/characters/avatar-Binaryville-Eugene.png 1x, images/characters/avatar-Binaryville-Eugene.svg 2x",
+        "width": 200,
+        "height": 200,
+        "alt": "Avatar of Eugene"
+      },
+      "desc": "Eugene is a software developer who has been working on a new app that will help people find the best places to eat in Binaryville. He is also a big fan of the Binaryville Bears and has been working on a new app that will help fans keep track of the team's stats and scores.",
+      "button": {
+        "text": "See bio and products",
+        "href": "Character-Detail-Eugene.html"
+      }
+    },
+    {
+      "name": "Gloria",
+      "title": "Data Analyst",
+      "fileName": "Binaryville-Gloria.svg",
+      "dataFullImg": "images/characters/Binaryville-Gloria.svg",
+      "avatar": {
+        "root": "avatar-Binaryville-Gloria",
+        "src": "images/characters/avatar-Binaryville-Gloria.png",
+        "srcSet": "images/characters/avatar-Binaryville-Gloria.png 1x, images/characters/avatar-Binaryville-Gloria.svg 2x",
+        "width": 200,
+        "height": 200,
+        "alt": "Avatar of Gloria"
+      },
+      "desc": "Gloria is a data analyst who has been working on a new app that will help people keep track of their finances. She is also a big fan of the Binaryville Bears and has been working on a new app that will help fans keep track of the team's stats and scores.",
+      "button": {
+        "text": "See bio and products",
+        "href": "Character-Detail-Gloria.html"
+      }
+    },
+    {
+      "name": "Hector",
+      "title": "Web Developer",
+      "fileName": "Binaryville-Hector.svg", 
+      "dataFullImg": "images/characters/Binaryville-Hector.svg",
+      "avatar":   {
+        "root": "avatar-Binaryville-Hector",
+        "src": "images/characters/avatar-Binaryville-Hector.png",
+        "srcSet": "images/characters/avatar-Binaryville-Hector.png 1x, images/characters/avatar-Binaryville-Hector.svg 2x",
+        "width": 200,
+        "height": 200,
+        "alt": "Avatar of Hector"
+      },
+      "desc": "Hector is a web developer who has been working on a new app that will help people find the best places to eat in Binaryville. He is also a big fan of the Binaryville Bears and has been working on a new app that will help fans keep track of the team's stats and scores.",
+      "button": {
+        "text": "See bio and products",
+        "href": "Character-Detail-Hector.html"
+      }
+    }
+  ]
+}

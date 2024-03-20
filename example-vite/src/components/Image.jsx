@@ -18,6 +18,7 @@ export const Image = ({ imgData, folder, type }) => {
       width={imgData.width || 200}
       height={imgData.height || 200}
       alt={imgData.alt || ''}
+      srcSet={imgData.srcSet}
     />
   );
 };
